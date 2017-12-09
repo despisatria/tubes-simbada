@@ -95,6 +95,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+      <h1>Halo</h1>
     </div>
 
     <script src="assets/js/jquery-3.2.1.slim.min.js"></script>
